@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: Bebas;
+  src: url("./assets/fonts/BebasNeue-Regular.ttf");
+}
+.pecaFont{
+  font-family: Bebas;
+}
